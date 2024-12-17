@@ -12,11 +12,16 @@ For now, the following topics are available:
 2. **Quantitative Methods II**  
    Advanced Quantitative Finance topics covering hypothesis testing, regression analysis, and financial modeling.
 
+3. **Economics I**  
+   Topics in demand and supply analysis, focusing on the fundamentals of microeconomic and macroeconomic relationships.
+
+4. **Economics II**  
+   Monetary and fiscal policy, exploring their roles in economic stability, inflation control, and growth.
+
 ## Upcoming Additions
 
 The repository is a work in progress. The following sections will be added soon:
 
-- Economics
 - Financial Reporting and Analysis
 - Corporate Finance
 - Portfolio Management
@@ -34,4 +39,5 @@ Feel free to contribute by providing additional study materials, corrections, or
 ## License
 
 This repository is open-source and free to use. Please give credit if you share or reuse the materials.
+
 

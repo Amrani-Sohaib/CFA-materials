@@ -30,8 +30,6 @@ The repository is a work in progress. The following sections will be added soon:
 - Derivatives
 - Alternative Investments
 
-Stay tuned for updates!
-
 ## Contribution
 
 Feel free to contribute by providing additional study materials, corrections, or suggestions.

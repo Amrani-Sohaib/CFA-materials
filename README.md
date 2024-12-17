@@ -1,6 +1,6 @@
-# CFA Exam Preparation Materials
+# CFA Materials
 
-Welcome to the **CFA Exam Preparation Materials** repository. This repository is designed to help individuals prepare for the CFA (Chartered Financial Analyst) exams by providing study resources, notes, and key elements of the CFA curriculum.
+Welcome to the **CFA Materials** repository. This repository is designed to help individuals prepare for the CFA (Chartered Financial Analyst) exams by providing study resources, notes, and key elements of the CFA curriculum.
 
 ## Currently Available Elements
 
